@@ -1,8 +1,8 @@
-# Angular Material Login Example
+# Angular 9 + Ivy Example
  
-This example app shows how to create an app with Angular Material and add a fully-functional Login form to it.
+This example app shows how to upgrade an to Angular 9 with Ivy and optimize it for production.
 
-Please read [Build a Beautiful App + Login with Angular Material](https://developer.okta.com/blog/2020/01/21/angular-material-login) to see how this app was created.
+<!-- Please read [Build a Beautiful App + Login with Angular Material](https://developer.okta.com/blog/2020/01/21/angular-material-login) to see how this app was created. -->
 
 **Prerequisites:** 
 
@@ -21,8 +21,8 @@ Please read [Build a Beautiful App + Login with Angular Material](https://develo
 To install this example application, run the following commands:
 
 ```bash
-git clone https://github.com/oktadeveloper/okta-angular-material-login-example.git
-cd okta-angular-material-login-example
+git clone https://github.com/oktadeveloper/okta-angular-ivy-example.git
+cd okta-angular-ivy-example
 npm install
 ```
 
