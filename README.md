@@ -2,7 +2,7 @@
  
 This example app shows how to upgrade an to Angular 9 with Ivy and optimize it for production.
 
-<!-- Please read [Build a Beautiful App + Login with Angular Material](https://developer.okta.com/blog/2020/01/21/angular-material-login) to see how this app was created. -->
+Please read [What Is Angular Ivy and Why Is It Awesome?](https://developer.okta.com/blog/2020/02/12/angular-ivy) to see how this app was created.
 
 **Prerequisites:** 
 
